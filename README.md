@@ -15,3 +15,5 @@ $ finger bketelsen
 ```
 go get github.com/bketelsen/finger
 ```
+
+** REQUIRES GitHub Personal Access Token exported as `GITHUB_TOKEN`**
